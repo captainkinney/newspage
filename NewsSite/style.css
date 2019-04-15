@@ -1,0 +1,33 @@
+﻿body {
+    background-color: #fff9dd;
+}
+
+#banner img {
+    width: 702px;
+    height: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#newstable td {
+    padding: 25px;
+    border-style: solid;
+    border-radius: 25px;
+
+    height: 100%;
+}
+
+#newstable img {
+    width: 180px;
+    height: 180px;
+}
+
+#newstable td a {
+    vertical-align: 400%;
+    font-size: 18px;
+}
+
+#entersite input {
+    align: center;
+}
